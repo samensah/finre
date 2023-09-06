@@ -1,1 +1,3 @@
-# finre
+train:
+
+python FinD.py
